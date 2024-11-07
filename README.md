@@ -1,0 +1,1 @@
+This is a project designed to record the temperature and show it on a website and a LCD screen. It uses a Raspberry Pi Pico W, a DS18B20, and a HD44780 LCD display to acheive this. There is a diagram of the wiring for the components and the python files required to run.
